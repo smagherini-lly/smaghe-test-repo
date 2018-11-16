@@ -1,2 +1,2 @@
 # smaghe-test-repo
-Simones playground
+Test / Learning repository for Simone Magherini
